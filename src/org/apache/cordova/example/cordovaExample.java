@@ -30,8 +30,8 @@ public class cordovaExample extends DroidGap
     {
         super.onCreate(savedInstanceState);
         //super.loadUrl("file:///android_asset/www/index.html");
-		super.loadUrl("http://www.rtve.es/m/noticias/");
-		
+		//super.loadUrl("http://www.rtve.es/m/noticias/");
+		super.loadUrl("http://www.rtve.es/test_mobile/");
     }
 }
 
